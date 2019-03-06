@@ -1,10 +1,10 @@
 <?php
 
 
-namespace DirectoryCleaner;
+namespace Ling\DirectoryCleaner;
 
-use Bat\FileSystemTool;
-use DirectoryCleaner\Exception\DirectoryCleanerException;
+use Ling\Bat\FileSystemTool;
+use Ling\DirectoryCleaner\Exception\DirectoryCleanerException;
 
 class DirectoryCleaner
 {

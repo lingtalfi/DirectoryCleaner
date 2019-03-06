@@ -19,7 +19,7 @@ Download the repository directly, or use the [uni](https://github.com/lingtalfi/
 
 ```bash
 cd /my/app
-uni import DirectoryCleaner
+uni import Ling/DirectoryCleaner
 ```
 
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace DirectoryCleaner\Exception;
+namespace Ling\DirectoryCleaner\Exception;
 
 class DirectoryCleanerException extends \Exception
 {
